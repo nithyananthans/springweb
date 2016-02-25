@@ -8,9 +8,11 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 @SpringBootApplication
 public class SpringbootwebApplication extends SpringBootServletInitializer {
 
+	
 	@Override
 	protected SpringApplicationBuilder configure(
 			SpringApplicationBuilder application) {
+		//To make the compiled result run in Tomcat
 		return application.sources(SpringbootwebApplication.class);
 	}
 
