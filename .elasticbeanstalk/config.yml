@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: springbootweb-dev
+    group_suffix: null
+global:
+  application_name: springbootweb
+  default_ec2_keyname: freeaws
+  default_platform: Tomcat 8 Java 8
+  default_region: ap-southeast-1
+  profile: null
+  sc: null
