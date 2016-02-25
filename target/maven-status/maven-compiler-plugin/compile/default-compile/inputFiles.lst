@@ -1,0 +1,12 @@
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/domain/Product.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/controllers/IndexController.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/configuration/SecurityConfiguration.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/controllers/ProductController.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/domain/Greeting.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/SpringbootwebApplication.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/bootstrap/ProductLoader.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/repositories/ProductRepository.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/configuration/WebConfiguration.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/services/ProductService.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/controllers/GreetingController.java
+/Users/wangyi/vFabric/spring-boot/springbootweb/src/main/java/io/pivotal/boot/demo/services/ProductServiceImpl.java

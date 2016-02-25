@@ -1,0 +1,11 @@
+io/pivotal/boot/demo/configuration/SecurityConfiguration.class
+io/pivotal/boot/demo/SpringbootwebApplication.class
+io/pivotal/boot/demo/domain/Greeting.class
+io/pivotal/boot/demo/services/ProductService.class
+io/pivotal/boot/demo/controllers/ProductController.class
+io/pivotal/boot/demo/domain/Product.class
+io/pivotal/boot/demo/services/ProductServiceImpl.class
+io/pivotal/boot/demo/controllers/GreetingController.class
+io/pivotal/boot/demo/controllers/IndexController.class
+io/pivotal/boot/demo/bootstrap/ProductLoader.class
+io/pivotal/boot/demo/repositories/ProductRepository.class
