@@ -1,0 +1,18 @@
+web:
+  build: .
+  command: java -jar /app.jar
+  ports:
+    - "8080:8080"
+  links:
+    - mysql
+  volumes:
+    - ".:/tmp"
+mysql:
+  image: "mysql/mysql-server:5.7"
+  environment:
+    MYSQL_ROOT_PASSWORD: password
+    MYSQL_USER: demo_user
+    MYSQL_PASSWORD: demo_pass
+    MYSQL_DATABASE: demo
+  ports:
+    - "3307:3306"
